@@ -1,0 +1,5 @@
+// we will ignore node_modules, dist (the output folder you won't track) and the .cache (parcel working folder) 
+node_modules/
+dist
+.cache
+.parcel-cache
